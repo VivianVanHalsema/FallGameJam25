@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CVL312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Dynamic_Actors/Moving_Platforms/Vertical_Moving_Platform.uasset",
+				"C:/Users/CVL312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Dynamic_Actors/Moving_Platforms/BP_Vertical_Moving_Platform.uasset"
+			]
+		}
+	]
+}
