@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Input/PlayerInput/NewBlueprint.uasset"
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Input/PlayerInput/NewBlueprint.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Input/Actions/IA_Jump.uasset"
 			]
 		}
 	]

@@ -9182,3 +9182,185 @@ Make sure 'NewBlueprint_C' has been compiled for  Bind Event to OnReachedJumpApe
 [2025.10.03-23.57.25:661][948]LogBlueprintUserMessages: [NewBlueprint] false
 [2025.10.03-23.57.25:993][949]LogBlueprintUserMessages: [NewBlueprint] false
 [2025.10.03-23.57.26:326][950]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.26:660][951]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.26:993][952]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.27:327][953]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.27:661][954]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.27:995][955]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.28:329][956]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.28:661][957]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.28:994][958]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.29:326][959]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.29:662][960]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.29:994][961]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.30:328][962]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.30:662][963]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.30:993][964]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.31:327][965]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.31:660][966]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.31:993][967]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.32:328][968]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.32:661][969]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.32:994][970]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.33:328][971]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.33:660][972]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.33:994][973]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.34:329][974]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.34:663][975]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.34:994][976]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.35:328][977]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.35:661][978]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.35:995][979]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.36:327][980]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.36:663][981]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.36:994][982]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.37:329][983]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.37:661][984]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.37:997][985]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.38:328][986]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.38:663][987]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.38:995][988]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.39:330][989]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.39:663][990]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.39:994][991]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.40:329][992]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.40:663][993]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.40:996][994]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.41:329][995]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.41:662][996]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.41:995][997]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.42:329][998]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.42:662][999]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.42:996][  0]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.43:331][  1]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.43:663][  2]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.43:994][  3]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.44:344][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.03-23.57.46:272][  4]LogSlate: Window 'Save Content' being destroyed
+[2025.10.03-23.57.46:291][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.03-23.57.46:291][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.03-23.57.46:343][  4]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.03-23.57.46:343][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.03-23.57.46:360][  4]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.03-23.57.46:361][  4]LogSavePackage: Moving '../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Saved/BP_ThirdPersonCharacter1C28A8D64DE77ECBA0402895EEFD5585.tmp' to '../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.03-23.57.46:368][  4]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Jump] ([1] browsable assets)...
+[2025.10.03-23.57.46:368][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Jump]
+[2025.10.03-23.57.46:368][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Jump" FILE="../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Input/Actions/IA_Jump.uasset" SILENT=true
+[2025.10.03-23.57.46:374][  4]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Jump
+[2025.10.03-23.57.46:374][  4]LogSavePackage: Moving '../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Saved/IA_Jump572D29884BEBC50462A1739C3ED026CC.tmp' to '../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Input/Actions/IA_Jump.uasset'
+[2025.10.03-23.57.46:375][  4]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/PlayerInput/NewBlueprint] ([2] browsable assets)...
+[2025.10.03-23.57.46:375][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/PlayerInput/NewBlueprint]
+[2025.10.03-23.57.46:386][  4]LogSavePackage: Moving output files for package: /Game/Input/PlayerInput/NewBlueprint
+[2025.10.03-23.57.46:386][  4]LogSavePackage: Moving '../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Saved/NewBlueprint3FE81A694E8A29C5A04392B5320480B3.tmp' to '../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Input/PlayerInput/NewBlueprint.uasset'
+[2025.10.03-23.57.46:387][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.088 ms (total: 261.273 ms)
+[2025.10.03-23.57.46:456][  4]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.03-23.57.46:456][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.03-23.57.46:493][  4]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.03-23.57.46:493][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.03-23.57.46:529][  4]LogSlate: Window 'FallGameJam - Unreal Editor' being destroyed
+[2025.10.03-23.57.46:642][  4]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.03-23.57.46:642][  4]LogContentValidation: Enabled validators:
+[2025.10.03-23.57.46:642][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.03-23.57.46:643][  4]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.03-23.57.46:643][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.03-23.57.46:643][  4]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.03-23.57.46:643][  4]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.03-23.57.46:643][  4]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.03-23.57.46:643][  4]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.10.03-23.57.46:643][  4]AssetCheck: /Game/Input/Actions/IA_Jump Validating asset
+[2025.10.03-23.57.46:643][  4]AssetCheck: /Game/Input/PlayerInput/NewBlueprint Validating asset
+[2025.10.03-23.57.46:680][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.03-23.57.46:696][  4]LogBlueprintUserMessages: [NewBlueprint] false
+[2025.10.03-23.57.46:737][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.03-23.57.46:737][  4]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.03-23.57.46:737][  4]LogSlate: Window 'FallGameJam Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.03-23.57.46:743][  4]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.10.03-23.57.46:746][  4]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.03-23.57.46:746][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.03-23.57.46:746][  4]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.03-23.57.46:748][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.03-23.57.46:750][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.03-23.57.46:773][  4]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.03-23.57.46:773][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2025.10.03-23.57.46:774][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2025.10.03-23.57.46:780][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.03-23.57.46:791][  4]Cmd: QUIT_EDITOR
+[2025.10.03-23.57.46:791][  4]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.03-23.57.46:791][  4]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.03-23.57.46:794][  5]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.03-23.57.46:794][  5]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.03-23.57.46:794][  5]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.03-23.57.46:794][  5]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.03-23.57.46:796][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.03-23.57.46:796][  5]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.03-23.57.46:801][  5]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.03-23.57.46:801][  5]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.03-23.57.46:802][  5]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.03-23.57.46:808][  5]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.03-23.57.46:808][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.03-23.57.46:810][  5]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.03-23.57.46:810][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.03-23.57.46:811][  5]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.03-23.57.46:811][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.03-23.57.46:813][  5]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.03-23.57.46:813][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.03-23.57.46:815][  5]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.03-23.57.46:815][  5]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.03-23.57.46:823][  5]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.03-23.57.47:529][  5]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.03-23.57.47:529][  5]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.03-23.57.47:529][  5]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2025.10.03-23.57.47:529][  5]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.03-23.57.47:529][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.03-23.57.47:532][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.03-23.57.47:538][  5]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.03-23.57.47:538][  5]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.03-23.57.47:543][  5]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.03-23.57.47:543][  5]LogExit: Preparing to exit.
+[2025.10.03-23.57.47:581][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:584][  5]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.03-23.57.47:826][  5]LogEditorDataStorage: Deinitializing
+[2025.10.03-23.57.47:945][  5]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.03-23.57.47:958][  5]LogExit: Editor shut down
+[2025.10.03-23.57.47:960][  5]LogExit: Transaction tracking system shut down
+[2025.10.03-23.57.48:078][  5]LogExit: Object subsystem successfully closed.
+[2025.10.03-23.57.48:129][  5]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.03-23.57.48:197][  5]LogMemoryProfiler: Shutdown
+[2025.10.03-23.57.48:197][  5]LogNetworkingProfiler: Shutdown
+[2025.10.03-23.57.48:197][  5]LoadingProfiler: Shutdown
+[2025.10.03-23.57.48:197][  5]LogTimingProfiler: Shutdown
+[2025.10.03-23.57.48:197][  5]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.03-23.57.48:197][  5]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.03-23.57.48:463][  5]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.03-23.57.48:471][  5]RenderDocPlugin: plugin has been unloaded.
+[2025.10.03-23.57.48:489][  5]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.03-23.57.48:489][  5]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DC29A48-45E0-96F0-AC42-28A3808C9C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c86a88ee45f3454cf517f98df613ccee%7C13e866421f9b4125a393d47b8523a381%7Ca79adf67-9804-43dc-8fd5-3013ea6b755d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.03-23.57.49:034][  5]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.03-23.57.49:034][  5]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.03-23.57.49:034][  5]LogXGEController: Cleaning working directory: C:/Users/cvl312/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.03-23.57.49:037][  5]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.03-23.57.49:037][  5]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.03-23.57.49:037][  5]LogPakFile: Destroying PakPlatformFile
+[2025.10.03-23.57.49:773][  5]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.03-23.57.49:863][  5]LogExit: Exiting.
+[2025.10.03-23.57.49:883][  5]Log file closed, 10/03/25 19:57:49
