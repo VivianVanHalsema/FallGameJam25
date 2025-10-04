@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/ThirdPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/HUD_Shiny_Things.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/HUD.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/BP_HUD.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Main.umap",
 				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset",
 				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset",
@@ -132,9 +138,7 @@
 				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset",
 				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
 				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset",
-				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/ThirdPerson/Blueprints/BP_Player.uasset",
-				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/ThirdPerson/Blueprints/BP_Player_Works.uasset",
-				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/ThirdPerson/Blueprints/BP_Player_Works.uasset"
 			]
 		}
 	]
