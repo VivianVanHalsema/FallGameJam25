@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Collectables/BPI_Collectables.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Collectables/BP_CollectableObject.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Collectables/DT_CollectableMeshes.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Collectables/Strut_Collectables.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Collectables/DT_Collectables.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Collectables/Inventory.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/4P/DJ8Z2F1XTR3A1SW4DKBAEE.uasset",
+				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Collectables/BP_CollectibleController.uasset"
+			]
+		}
+	]
+}
