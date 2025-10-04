@@ -3078,3 +3078,155 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.04-20.45.27:350][360]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.04-20.45.27:350][360]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2025.10.04-20.45.27:526][360]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.04-20.49.05:627][ 29]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 648.914062
+[2025.10.04-20.49.06:627][ 33]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-20.49.06:627][ 33]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 649.580688, Update Interval: 329.480896
+[2025.10.04-20.54.40:349][ 33]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 983.628052
+[2025.10.04-20.54.41:349][ 36]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-20.54.41:349][ 36]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 984.294312, Update Interval: 332.412476
+[2025.10.04-21.00.22:087][ 58]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1325.358154
+[2025.10.04-21.00.23:088][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-21.00.23:088][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1326.025269, Update Interval: 320.378418
+[2025.10.04-21.06.04:809][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1668.076172
+[2025.10.04-21.06.05:807][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-21.06.05:807][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1668.742065, Update Interval: 341.921448
+[2025.10.04-21.12.18:852][208]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2042.135742
+[2025.10.04-21.12.19:851][211]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-21.12.19:851][211]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2042.802368, Update Interval: 344.287231
+[2025.10.04-21.18.46:565][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2429.869385
+[2025.10.04-21.18.47:562][374]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-21.18.47:562][374]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2430.533936, Update Interval: 321.308624
+[2025.10.04-21.25.07:611][514]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2810.922852
+[2025.10.04-21.25.08:610][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-21.25.08:610][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2811.588135, Update Interval: 309.692078
+[2025.10.04-21.31.06:305][590]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3169.628418
+[2025.10.04-21.31.07:307][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-21.31.07:307][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3170.295410, Update Interval: 344.918976
+[2025.10.04-21.37.31:357][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3554.684814
+[2025.10.04-21.37.32:356][748]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-21.37.32:356][748]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3555.351318, Update Interval: 327.213959
+[2025.10.04-21.40.14:071][234]LogDerivedDataCache: C:/Users/cvl312/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.04-21.43.44:399][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3927.727295
+[2025.10.04-21.43.45:400][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-21.43.45:401][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3928.397217, Update Interval: 342.186951
+[2025.10.04-21.50.04:449][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4307.786621
+[2025.10.04-21.50.05:449][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-21.50.05:449][  7]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4308.452637, Update Interval: 306.771454
+[2025.10.04-21.56.12:167][107]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4675.513672
+[2025.10.04-21.56.13:167][110]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-21.56.13:167][110]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4676.180176, Update Interval: 327.224945
+[2025.10.04-22.02.36:550][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5059.907715
+[2025.10.04-22.02.37:566][263]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-22.02.37:566][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5060.574707, Update Interval: 358.789642
+[2025.10.04-22.09.07:931][434]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5451.297363
+[2025.10.04-22.09.08:931][437]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-22.09.08:931][437]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5451.964355, Update Interval: 304.607086
+[2025.10.04-22.14.54:965][475]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5798.349121
+[2025.10.04-22.14.55:966][478]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-22.14.55:966][479]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5799.016113, Update Interval: 321.288483
+[2025.10.04-22.20.59:365][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6162.752441
+[2025.10.04-22.21.00:365][571]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-22.21.00:365][571]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6163.419922, Update Interval: 348.247925
+[2025.10.04-22.27.38:765][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6562.152344
+[2025.10.04-22.27.39:766][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-22.27.39:766][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6562.819336, Update Interval: 304.766388
+[2025.10.04-22.33.29:726][821]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2025.10.04-22.33.31:687][821]LogSlate: Window 'Save Content' being destroyed
+[2025.10.04-22.33.31:727][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-22.33.31:735][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/ruby] ([1] browsable assets)...
+[2025.10.04-22.33.31:735][821]LogStaticMesh: Warning: Invalid material [Ruby_Material] used on Nanite static mesh [ruby]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.04-22.33.31:735][821]LogStaticMesh: Warning: Invalid material [Ruby_Material] used on Nanite static mesh [ruby]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.04-22.33.31:735][821]LogStaticMesh: Warning: Invalid material [Ruby_Material] used on Nanite static mesh [ruby]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.04-22.33.31:735][821]LogStaticMesh: Warning: Invalid material [Ruby_Material] used on Nanite static mesh [ruby]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.04-22.33.31:735][821]LogStaticMesh: Warning: Invalid material [Ruby_Material] used on Nanite static mesh [ruby]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.04-22.33.31:735][821]LogStaticMesh: Warning: Invalid material [Ruby_Material] used on Nanite static mesh [ruby]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.04-22.33.31:735][821]LogStaticMesh: Warning: Invalid material [Ruby_Material] used on Nanite static mesh [ruby]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.04-22.33.31:735][821]LogStaticMesh: Warning: Invalid material [Ruby_Material] used on Nanite static mesh [ruby]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.04-22.33.31:735][821]LogStaticMesh: Warning: Invalid material [Ruby_Material] used on Nanite static mesh [ruby]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.04-22.33.31:948][821]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/ruby.ruby]
+[2025.10.04-22.33.31:948][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/ruby]
+[2025.10.04-22.33.31:948][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/ruby" FILE="../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Assets/ruby.uasset" SILENT=true
+[2025.10.04-22.33.31:958][821]LogSavePackage: Moving output files for package: /Game/Assets/ruby
+[2025.10.04-22.33.31:959][821]LogSavePackage: Moving '../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Saved/ruby0BEF56C34FAE52C5EF06C1948020ACBF.tmp' to '../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Assets/ruby.uasset'
+[2025.10.04-22.33.31:960][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 233.809 ms (total: 379.584 ms)
+[2025.10.04-22.33.31:996][821]LogStall: Shutdown...
+[2025.10.04-22.33.31:996][821]LogStall: Shutdown complete.
+[2025.10.04-22.33.32:023][821]LogSlate: Window 'FallGameJam - Unreal Editor' being destroyed
+[2025.10.04-22.33.32:157][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-22.33.32:157][821]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.04-22.33.32:159][821]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-22.33.32:160][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-22.33.32:160][821]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.04-22.33.32:161][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-22.33.32:166][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-22.33.32:190][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.04-22.33.32:190][821]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.04-22.33.32:190][821]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.10.04-22.33.32:192][821]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.10.04-22.33.32:195][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-22.33.32:219][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.04-22.33.32:265][821]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.04-22.33.32:265][821]LogContentValidation: Enabled validators:
+[2025.10.04-22.33.32:265][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.04-22.33.32:265][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.04-22.33.32:265][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.04-22.33.32:265][821]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.04-22.33.32:265][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.04-22.33.32:265][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.04-22.33.32:265][821]AssetCheck: /Game/Assets/ruby Validating asset
+[2025.10.04-22.33.32:267][821]Cmd: QUIT_EDITOR
+[2025.10.04-22.33.32:267][821]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.04-22.33.32:268][821]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.04-22.33.32:271][822]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.04-22.33.32:272][822]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.04-22.33.32:272][822]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.04-22.33.32:274][822]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-22.33.32:274][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-22.33.32:274][822]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.04-22.33.32:281][822]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.04-22.33.32:281][822]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.04-22.33.32:281][822]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.04-22.33.32:283][822]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-22.33.32:283][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-22.33.32:284][822]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-22.33.32:284][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-22.33.32:284][822]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.04-22.33.32:284][822]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.04-22.33.32:285][822]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.04-22.33.32:997][822]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.04-22.33.32:997][822]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.04-22.33.32:997][822]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2025.10.04-22.33.32:997][822]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.04-22.33.32:997][822]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.04-22.33.32:999][822]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.04-22.33.33:005][822]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.04-22.33.33:006][822]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.04-22.33.33:007][822]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.10.04-22.33.33:012][822]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.04-22.33.33:012][822]LogExit: Preparing to exit.
+[2025.10.04-22.33.33:043][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.04-22.33.34:268][822]LogEditorDataStorage: Deinitializing
+[2025.10.04-22.33.34:395][822]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.04-22.33.34:407][822]LogExit: Editor shut down
+[2025.10.04-22.33.34:409][822]LogExit: Transaction tracking system shut down
+[2025.10.04-22.33.34:491][822]LogExit: Object subsystem successfully closed.
+[2025.10.04-22.33.34:506][822]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.04-22.33.34:531][822]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.04-22.33.34:605][822]LogMemoryProfiler: Shutdown
+[2025.10.04-22.33.34:605][822]LogNetworkingProfiler: Shutdown
+[2025.10.04-22.33.34:605][822]LoadingProfiler: Shutdown
+[2025.10.04-22.33.34:605][822]LogTimingProfiler: Shutdown
+[2025.10.04-22.33.34:605][822]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.04-22.33.34:605][822]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.04-22.33.35:178][822]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.04-22.33.35:211][822]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.04-22.33.35:211][822]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD139A61-40A6-5E2F-00BF-E7B0B7343945%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=5ad158f5440c3cb931336b833b8701f2%7C2b9ab3f0af96459dbd796265acde4c28%7Cb0c31a54-a842-4eb6-a83b-fb097c3edf38&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.04-22.33.35:751][822]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.04-22.33.35:751][822]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.04-22.33.35:751][822]RenderDocPlugin: plugin has been unloaded.
+[2025.10.04-22.33.35:757][822]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.04-22.33.35:757][822]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.04-22.33.35:757][822]LogPakFile: Destroying PakPlatformFile
+[2025.10.04-22.33.36:251][822]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.04-22.33.36:342][822]LogExit: Exiting.
+[2025.10.04-22.33.36:358][822]Log file closed, 10/04/25 18:33:36
