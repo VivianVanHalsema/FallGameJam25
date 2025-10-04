@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Documents/Summer Games Studio/FallGameJam25/FallGameJam/Content/Dynamic_Actors/Moving_Platforms/BP_Vertical_Moving_Platform.uasset",
+				"C:/Documents/Summer Games Studio/FallGameJam25/FallGameJam/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/2P/S8RENNYXCPIKH2Y26OUXWB.uasset",
+				"C:/Documents/Summer Games Studio/FallGameJam25/FallGameJam/Content/Dynamic_Actors/Bounce_Pads/BP_Bounce_Pad.uasset",
+				"C:/Documents/Summer Games Studio/FallGameJam25/FallGameJam/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/LB/NTT2YNMW36YV3AOVGB9YET.uasset",
 				"C:/Users/CVL312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Dynamic_Actors/Moving_Platforms/Vertical_Moving_Platform.uasset",
 				"C:/Users/CVL312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Dynamic_Actors/Moving_Platforms/BP_Vertical_Moving_Platform.uasset"
 			]
