@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cvl301/Documents/GitHub/FallGameJam25/FallGameJam/Content/Input/IMC_Default.uasset",
+				"C:/Users/cvl301/Documents/GitHub/FallGameJam25/FallGameJam/Content/Input/Actions/Pause.uasset",
+				"C:/Users/cvl301/Documents/GitHub/FallGameJam25/FallGameJam/Content/ThirdPerson/Blueprints/Pause.uasset",
 				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/ThirdPerson/Blueprints/BP_Player.uasset",
 				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/cvl312/Documents/GitHub/FallGameJam25/FallGameJam/Content/Input/Actions/IA_Jump.uasset",
